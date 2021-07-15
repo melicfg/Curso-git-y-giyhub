@@ -1,8 +1,5 @@
 Andres tiene h
 Y ocupa N
-<<<<<<< HEAD
-Yo le pongo cremita en las noches 
-=======
 holahola
 esto es para la acabecera
->>>>>>> cabecera
+clase de ssh
